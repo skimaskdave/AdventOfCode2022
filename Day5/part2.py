@@ -1,4 +1,4 @@
-# David Grasmeder AoC 2022 solution to day 5 part 1
+# David Grasmeder AoC 2022 solution to day 5 part 2
 import re
 
 f = open("input.txt", "rt")
